@@ -1,3 +1,5 @@
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
 # IMAGE-TRANSFORMATIONS
 
 
@@ -38,8 +40,8 @@ Use cv2.warpPerspective(image,M,(int(cols*1.5),int(rows*1.5))) for x and y axis 
 <br>End the program
 ## Program:
 
-## Developed By: A joans jay authers
-# Register Number:212221240019
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
 i)Image Translation
 ```python
 
@@ -232,3 +234,5 @@ vi)Image Cropping
 ## Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
